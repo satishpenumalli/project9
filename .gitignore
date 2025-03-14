@@ -1,3 +1,6 @@
 *.js
 *.html
 !f5.html
+Images/
+Audio/
+
